@@ -36,3 +36,11 @@ A modern **Streamlit dashboard** is included to make everything easy to interact
 ```bash
 git clone https://github.com/YOUR-USERNAME/P2P-Blockchain-Network.git
 cd P2P-Blockchain-Network
+
+
+## 📸 Screenshots
+### Dashboard View
+![Dashboard](assets/dashboard.png)
+
+### Blockchain View
+![Blockchain](assets/blockchain.png)
