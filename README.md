@@ -35,14 +35,7 @@ A modern **Streamlit dashboard** is included to make everything easy to interact
 1. **Clone the repo**
 ```bash
 git clone https://github.com/Rakshana08v/P2P-Blockchain-Network.git
-cd P2P-Blockchain-Network
+cd P2P-Blockchain-Network 
 
 
-## 📸 Screenshots
-
-### ✅ Dashboard View
-![Dashboard](https://github.com/Rakshana08v/P2P-Blockchain-Network/blob/main/assets/Dashboard.png?raw=true)
-### ✅ Blockchain View
-![Blocks](https://github.com/Rakshana08v/P2P-Blockchain-Network/blob/main/assets/Blocks.png?raw=true)
-![Blocks Mining](https://github.com/Rakshana08v/P2P-Blockchain-Network/blob/main/assets/Block%20Mining.png?raw=true)
 
